@@ -47,7 +47,7 @@ Our **Telegram Mass DM Sender** supports:
 ### 📊 Image 4 – Telegram Mass DM Campaign Report
 
 <!-- IMAGE PLACEHOLDER 4 -->
-![Telegram Mass DM Campaign Report](images/telegram-mass-dm-campaign-report.png)
+![Telegram Mass DM Campaign Report](telegram-mass-dm-campaign-report.png)
 
 > Post-delivery analytics report showing sent messages, delivery rate, response ratio, failed attempts, and campaign duration for a **Telegram Mass DM Service**.
 
