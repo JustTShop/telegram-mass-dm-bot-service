@@ -4,6 +4,16 @@ A professional **Telegram Mass DM Bot** and **Telegram Mass DM Service** designe
 
 This repository is created for informational and demonstration purposes related to **Telegram Mass DM**, **Mass DM Telegram**, and **Telegram Mass DM Bot GitHub** searches.
 
+## 📩 Access & Contact
+
+For access to the **Telegram Mass DM Service**, demo requests, or custom development:
+
+👉 **Telegram Support:**  
+
+https://t.me/GrowthStudioSupport
+
+---
+
 ---
 
 ## 🚀 What is Telegram Mass DM?
@@ -91,15 +101,6 @@ Custom extensions are available on request.
 - No public API abuse
 
 > This repository does NOT contain public binaries or source code to prevent abuse.
-
----
-
-## 📩 Access & Contact
-
-For access to the **Telegram Mass DM Service**, demo requests, or custom development:
-
-👉 **Telegram Support:**  
-https://t.me/GrowthStudioSupport
 
 ---
 
