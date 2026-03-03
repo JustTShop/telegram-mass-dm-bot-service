@@ -1,4 +1,4 @@
-# Telegram Mass DM Bot & Service
+# Telegram Mass DM Bot & Service 2026
 
 A professional **Telegram Mass DM Bot** and **Telegram Mass DM Service** designed for scalable outreach, automation, and high deliverability.
 
