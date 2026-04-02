@@ -10,7 +10,7 @@ For access to the **Telegram Mass DM Service**, demo requests, or custom develop
 
 👉 **Telegram Support:**  
 
-https://t.me/GrowthStudioSupport
+https://t.me/EliteSolutionExpertSupport
 
 ---
 
